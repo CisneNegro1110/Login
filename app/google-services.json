@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "38855031161",
+    "firebase_url": "https://prueba-z.firebaseio.com",
+    "project_id": "prueba-z",
+    "storage_bucket": "prueba-z.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38855031161:android:ee51bc5a18c0726c00d7a8",
+        "android_client_info": {
+          "package_name": "com.cisnenegro.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38855031161-2ii1jupi5vqlqhj37em5vi48sohms8c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx__FljXN_iQG6OpkYhBtvMgmFPFH_qsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38855031161-2ii1jupi5vqlqhj37em5vi48sohms8c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38855031161:android:9e3ced5c1ef995f800d7a8",
+        "android_client_info": {
+          "package_name": "com.cisnenegro.sistemaderiego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38855031161-lqh242o4h1pghrpd3ir72jblnimakaeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cisnenegro.sistemaderiego",
+            "certificate_hash": "5607ad006dc5d84de5d186d3d7e93cd499ab03d2"
+          }
+        },
+        {
+          "client_id": "38855031161-2ii1jupi5vqlqhj37em5vi48sohms8c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx__FljXN_iQG6OpkYhBtvMgmFPFH_qsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38855031161-2ii1jupi5vqlqhj37em5vi48sohms8c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
